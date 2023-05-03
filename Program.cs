@@ -9,7 +9,7 @@ Profesor profe = new Profesor();
 ////////////////-------------------------///////////////////////////////
 
 // using Instituto;
-//Instituto.Profesor profe = new Instituto.Profesor();
+//Instituto.Profesor profe = new Instituto.Profesor(); 
 
 ////////////////-------------------------///////////////////////////////
 ////////////////-------------------------///////////////////////////////
@@ -34,6 +34,7 @@ alumno1.Metodo1(1, "palabra 1", true);  // devuelve void // no hace falta que se
 //Console.WriteLine( alumno1.Metodo2());
 
 var resultadostring = alumno1.Metodo2(); // este parametro devuelve un string y se lo asigna a resultadosstring. 
+//                      OBJETO.METODO() SIEMPRE PARENTESIS.
 
 //////---------------------
 var alumno99 = alumno1.Metodo3("Carlos");
@@ -44,7 +45,7 @@ Console.WriteLine(alumno99.Nombre); // en este caso no hay parentesis porque no 
 // en el caso de propiedades lo usamos sin parentesis porque no esperan ninguna parametro.
 
 // public string Metodo x ()
-// tipo de accesibilidad / tipo de retorno / nombremetodos / (parametros)
+// tipo de accesibilidad / tipo de retorno / nombre / (parametros)
 
 ////////////////-------------------------///////////////////////////////
 ////////////////-------------------------///////////////////////////////
@@ -77,9 +78,9 @@ Console.WriteLine($"nombre: {alumno7.Nombre} apellido {alumno7.Apellido} dni: {a
 
 var titulocompleto = alumno7.Saludar("Ingeniero");
 
-Console.WriteLine(titulocompleto);
+Console.WriteLine(titulocompleto); // 2 PASOS PRIMERO LO ASIGNO A TITULO COMPLETO, LUEGO SEGUNDO PASO LO IMPRIMO.
 
-Console.WriteLine(alumno6.Saludar("Doctora"));
+Console.WriteLine(alumno6.Saludar("Doctora")); // 2 PASOS EN 1. ASIGNO E IMPRIMO.
 
 Console.WriteLine(alumno6.Metodo2());
 
@@ -91,10 +92,12 @@ Console.WriteLine(alumno6.Metodo2());
 #endregion
 
 
-// Tengo que pasar los definidos en la estructura.
+// Tengo que pasar los definidos en la estructura. 
 alumno6.NivelEstudio = Alumno.TipoNivelEstudio.Secundario; // SET
 alumno7.NivelEstudio = Alumno.TipoNivelEstudio.Secundario; // SET
 alumno1.NivelEstudio = Alumno.TipoNivelEstudio.Primario; // SET
+var alumno24 = new Alumno();
+alumno24.NivelEstudio = Alumno.TipoNivelEstudio.Universitario;// SET
 // Tengo que pasar los definidos en la estructura.
 // Muy util (podemos poner un if para preguntar algo)
 
@@ -187,8 +190,9 @@ class Alumno
     // 3) Metodo1 (nombre del metodo) --> podemos reutilizarlos. PODEMOS HACER SOBRECARGA DE METODOS CON EL MISMO NOMBRE
     // PERO CON DIFERENTE PARAMETROS QUE ESPERA.
 
+    //PUEDE HABER UN VOID
     //DATOS PRIMITIVOS (STRING, INT, ECT)
-    // TIPO COMPLEJOS (OBJETOS,LISTAS) EJ, QUE ME DUELVE UN TIPO ALUMNO. - public alumno Metodo1 -
+    // TIPO COMPLEJOS (OBJETOS,LISTAS) EJ, QUE ME DUELVE UN TIPO ALUMNO. - public alumno Metodo1 - (DEVOLVER OBJETOS O UNA LISTA DE OBJETOS)
 
     public Alumno Metodo3(string Nombre)
     {
@@ -301,6 +305,10 @@ namespace Instituto
     ////////////////-------------------------/////////////////////////////// 
 
 
+/// CONSTRUCTORES
+/// CAMPOS
+/// PROPIEDADES
+/// METODOS.
 
 
 }
