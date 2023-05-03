@@ -1,0 +1,45 @@
+D:\ISTEA\POO2023-1C\ProyClase2\bin\Debug\net6.0\ProyClase2.exe
+D:\ISTEA\POO2023-1C\ProyClase2\bin\Debug\net6.0\ProyClase2.deps.json
+D:\ISTEA\POO2023-1C\ProyClase2\bin\Debug\net6.0\ProyClase2.runtimeconfig.json
+D:\ISTEA\POO2023-1C\ProyClase2\bin\Debug\net6.0\ProyClase2.dll
+D:\ISTEA\POO2023-1C\ProyClase2\bin\Debug\net6.0\ProyClase2.pdb
+D:\ISTEA\POO2023-1C\ProyClase2\obj\Debug\net6.0\ProyClase2.csproj.AssemblyReference.cache
+D:\ISTEA\POO2023-1C\ProyClase2\obj\Debug\net6.0\ProyClase2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISTEA\POO2023-1C\ProyClase2\obj\Debug\net6.0\ProyClase2.AssemblyInfoInputs.cache
+D:\ISTEA\POO2023-1C\ProyClase2\obj\Debug\net6.0\ProyClase2.AssemblyInfo.cs
+D:\ISTEA\POO2023-1C\ProyClase2\obj\Debug\net6.0\ProyClase2.csproj.CoreCompileInputs.cache
+D:\ISTEA\POO2023-1C\ProyClase2\obj\Debug\net6.0\ProyClase2.dll
+D:\ISTEA\POO2023-1C\ProyClase2\obj\Debug\net6.0\refint\ProyClase2.dll
+D:\ISTEA\POO2023-1C\ProyClase2\obj\Debug\net6.0\ProyClase2.pdb
+D:\ISTEA\POO2023-1C\ProyClase2\obj\Debug\net6.0\ProyClase2.genruntimeconfig.cache
+D:\ISTEA\POO2023-1C\ProyClase2\obj\Debug\net6.0\ref\ProyClase2.dll
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POO Clase 3 Profesor\bin\Debug\net6.0\ProyClase2.exe
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POO Clase 3 Profesor\bin\Debug\net6.0\ProyClase2.deps.json
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POO Clase 3 Profesor\bin\Debug\net6.0\ProyClase2.runtimeconfig.json
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POO Clase 3 Profesor\bin\Debug\net6.0\ProyClase2.dll
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POO Clase 3 Profesor\bin\Debug\net6.0\ProyClase2.pdb
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POO Clase 3 Profesor\obj\Debug\net6.0\ProyClase2.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POO Clase 3 Profesor\obj\Debug\net6.0\ProyClase2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POO Clase 3 Profesor\obj\Debug\net6.0\ProyClase2.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POO Clase 3 Profesor\obj\Debug\net6.0\ProyClase2.AssemblyInfo.cs
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POO Clase 3 Profesor\obj\Debug\net6.0\ProyClase2.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POO Clase 3 Profesor\obj\Debug\net6.0\ProyClase2.dll
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POO Clase 3 Profesor\obj\Debug\net6.0\refint\ProyClase2.dll
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POO Clase 3 Profesor\obj\Debug\net6.0\ProyClase2.pdb
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POO Clase 3 Profesor\obj\Debug\net6.0\ProyClase2.genruntimeconfig.cache
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POO Clase 3 Profesor\obj\Debug\net6.0\ref\ProyClase2.dll
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POOPractice_III\bin\Debug\net6.0\ProyClase2.exe
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POOPractice_III\bin\Debug\net6.0\ProyClase2.deps.json
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POOPractice_III\bin\Debug\net6.0\ProyClase2.runtimeconfig.json
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POOPractice_III\bin\Debug\net6.0\ProyClase2.dll
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POOPractice_III\bin\Debug\net6.0\ProyClase2.pdb
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POOPractice_III\obj\Debug\net6.0\ProyClase2.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POOPractice_III\obj\Debug\net6.0\ProyClase2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POOPractice_III\obj\Debug\net6.0\ProyClase2.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POOPractice_III\obj\Debug\net6.0\ProyClase2.AssemblyInfo.cs
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POOPractice_III\obj\Debug\net6.0\ProyClase2.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POOPractice_III\obj\Debug\net6.0\ProyClase2.dll
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POOPractice_III\obj\Debug\net6.0\refint\ProyClase2.dll
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POOPractice_III\obj\Debug\net6.0\ProyClase2.pdb
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POOPractice_III\obj\Debug\net6.0\ProyClase2.genruntimeconfig.cache
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POOPractice_III\obj\Debug\net6.0\ref\ProyClase2.dll
